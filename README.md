@@ -1,1 +1,2 @@
-# student-management-system-python
+# Student Management System
+Python + MySQL based mini project
